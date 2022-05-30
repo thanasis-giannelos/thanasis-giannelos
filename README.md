@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋! I'm Thanasis!</h1>
 <h3 align="center">Just took the Web Development train for a ride. Next stop FrontEnd Developer!</h3>
 
+<p align="center">
+  <img width="746" height="420" src="http://cdn.wallpapername.com/1920x1080/20180420/5ad9dfb6e9e90.jpg">
+</p>
 
-![5ad9dfb6e9e90](https://user-images.githubusercontent.com/102992298/171059353-5055c132-95bf-4650-9013-3648035ef3c1.jpg)
 
 - 🌱 Right now I'm learning as much as I can about **ReactJS, JS, CSS, HTML**
 
