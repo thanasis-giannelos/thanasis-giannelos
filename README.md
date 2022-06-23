@@ -6,10 +6,6 @@
 
 - 📫 Mail me at: **athgiannelos@gmail.com**
 
-```
-careerSwitcher => Teaching physics is interesting but coding is fun!;
-```
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
