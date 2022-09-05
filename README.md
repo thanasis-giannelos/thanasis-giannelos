@@ -2,8 +2,6 @@
 
 ![people and technology at its best](https://user-images.githubusercontent.com/102992298/171300113-74ba5683-3bab-4d85-8735-5618c01c8da2.png)
 
-- 🌱 Right now I'm learning as much as I can about **ReactJS, JS, CSS, HTML**
-
 - 📫 Mail me at: **athgiannelos@gmail.com**
 
 
